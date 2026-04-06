@@ -1,4 +1,4 @@
-package tp3;
+package tp3.ej1;
 
 public class Main {
 
